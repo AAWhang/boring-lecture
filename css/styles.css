@@ -1,4 +1,4 @@
-p.intro {
+/*p.intro {
   width: 75%;
   font-style: normal;
 }
@@ -12,4 +12,11 @@ img.intro {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+  }*/
+
+.paragraphStyle {
+  border: 5px solid orange;
+  color:white;
+  background-color: blue;
+
+}
